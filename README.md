@@ -1,7 +1,7 @@
 # ARCS - Automated Record Custody Standard
 
 <p align="left">
-  <img src="./assets/arcs-banner.png" alt="ARCS" width="50%" />
+  <img src="https://raw.githubusercontent.com/arcs-standard/arcs-standard/main/assets/arcs-banner.png" alt="ARCS" width="50%" />
 </p>
 
 Published by [Vega Commons Project, Inc.](https://vegacommons.org)
